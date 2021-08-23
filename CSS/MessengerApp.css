@@ -1,0 +1,118 @@
+body{
+    background-color: blue;
+    margin-top: 30px;
+    
+}
+#ph1p1{
+    background-color:transparent;
+    color:white;
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top:40px;
+    left:293px;
+    border-top-left-radius: 20px;
+    line-height: 60px;
+}
+#ph1p2{
+    background-color:white;
+    color:black;
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top:120px;
+    left:174px;
+    border-top-right-radius: 20px;
+}
+#ph2p1{
+    background-color:blue;
+    color:white;
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top:40px;
+    right:175px;
+    border-top-left-radius: 20px;
+}
+#phone{
+    width: 330px;
+    height: 600px;
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+#mid{
+    display: inline-block;
+    width: 300px;
+}
+#phone2{
+   
+    width: 330px;
+    height: 600px;
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 20px;
+    display: inline-block;
+
+}
+#screen{
+    width: 320px;
+    background-color:rgba(0, 0, 0, 0.808);
+    height:560px ;
+}
+#input1{
+   margin-top: 515px;
+   background-color: black;
+   border:1px solid rgba(255, 255, 255, 0.74);
+   color: white;
+   margin-right: 100px;
+   font-size: 15px;
+}
+#input2{
+    margin-top: 515px;
+    background-color: black;
+    border:1px solid rgba(255, 255, 255, 0.74);
+    color: white;
+    margin-right: 100px;
+    font-size: 15px;
+ }
+#send1{
+    width: 57px;
+    height: 43px;
+    background-color: blue;
+    position: absolute;
+    bottom: 48px;
+    left: 460px;
+   
+
+}
+#send2{
+    width: 57px;
+    height: 43px;
+    background-color: blue;
+    position: absolute;
+    bottom:48px;
+    right:195px;
+   
+}
+#message1{
+    width:312px;
+    height: 73%;
+    position: absolute;
+    overflow: hidden;
+   
+}
+#message2{
+    width:312px;
+    height:73%;
+    position: absolute;
+    overflow: hidden;
+  
+}
+
+#message1:hover,#message2:hover{
+    overflow-y: scroll;
+    overflow-y: visible;
+  
+}
